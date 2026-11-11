@@ -1,0 +1,16 @@
+.git
+.vercel
+.local
+.env
+.env.*
+!.env.example
+.venv
+frontend
+node_modules
+dist
+__pycache__
+.pytest_cache
+.mypy_cache
+*.pyc
+*.log
+.DS_Store
